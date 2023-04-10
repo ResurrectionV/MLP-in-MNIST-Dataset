@@ -2,5 +2,5 @@
 Implementation of MLP
 
 ## Installation
-https://github.com/ResurrectionV/MLP-in-MNIST-Dataset.git
+git clone https://github.com/ResurrectionV/MLP-in-MNIST-Dataset.git
 
